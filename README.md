@@ -1,3 +1,3 @@
 # PragyaCoding
-<br/.
+<br/>
 Author - Pragya Mishra
